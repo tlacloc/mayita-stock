@@ -1,0 +1,5 @@
+El kilo de envío ronda en (410, 450) mxn
+El precio de venta es el doble del precio de compra + envio
+venta = 2*(compra + peso*envio)
+
+Posible update, dado una categoría, encontrar best sellers (productos que tengan un peso relativamente bajo con respecto al precio de compra).
